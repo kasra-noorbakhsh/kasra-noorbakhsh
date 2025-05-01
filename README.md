@@ -1,3 +1,6 @@
+<!-- Banner Image -->
+<img src="./ChatGPT Image May 1, 2025, 01_09_38 PM.png" alt="Kasra Noorbakhsh Banner" width="100%">
+
 ## Hi there 👋
 
 I'm a Computer Engineering student at the University of Tehran, navigating the challenges of coursework, projects, and a bit of perfectionism that keeps me deeply engaged (sometimes for too long 😅).
@@ -8,7 +11,8 @@ Right now, my focus is on university studies and exploring topics like data anal
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kasra-noorbakhsh-749353285)
 - 📧 Email: noorbakhshkasra04@gmail.com
 
-## 🛠 Skills
+<details>
+  <summary>🛠 <strong>Skills</strong></summary>
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,8 +44,13 @@ Right now, my focus is on university studies and exploring topics like data anal
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
+</details>
+
+<details>
+  <summary>📊 <strong>GitHub Stats</strong></summary>
 
 ![Kasra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasra-noorbakhsh&show_icons=true&theme=dark&hide=contribs,pr)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasra-noorbakhsh&layout=compact&theme=dark)
+
+</details>
