@@ -30,7 +30,6 @@ Right now, my focus is on university studies and exploring topics like data anal
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
-![Mercurial](https://img.shields.io/badge/Mercurial-999999?style=flat&logo=mercurial&logoColor=white)
 ![Intel oneAPI](https://img.shields.io/badge/Intel_oneAPI-0071C5?style=flat&logo=intel&logoColor=white)
 
 ### 📊 Data Analytics & Visualization
