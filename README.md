@@ -10,6 +10,7 @@ Right now, my focus is on university studies and exploring topics like data anal
 📫 **Let's Connect:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kasra-noorbakhsh-749353285)
 - 📧 Email: noorbakhshkasra04@gmail.com
+- 🧑🏻‍💻 [Codeforces](https://codeforces.com/submissions/kasra04)
 
 <details>
   <summary>🛠 <strong>Skills</strong></summary>
