@@ -37,12 +37,28 @@ Right now, my focus is on university studies and exploring topics like data anal
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-### 🔧 Other Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+### 🔧 DevOps & Containerization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918?style=flat&logo=ansible&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white)
+
+### 📈 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/grafana-%23F46800?style=flat&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=flat&logo=prometheus&logoColor=white)
+![Zabbix](https://img.shields.io/badge/zabbix-%23d21628?style=flat&logo=zabbix&logoColor=white)
+
+### 🖥️ Virtualization
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61?style=flat&logo=virtualbox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+
+### 🔒 Other Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-%23ED813E?style=flat&logo=keycloak&logoColor=white)
+![MinIO](https://img.shields.io/badge/minio-%23C72E2F?style=flat&logo=minio&logoColor=white)
+![MobaXterm](https://img.shields.io/badge/MobaXterm-000000?style=flat)
 
 </details>
 
