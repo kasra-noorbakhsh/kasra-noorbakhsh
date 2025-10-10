@@ -100,7 +100,7 @@ Right now, my focus is on university studies and exploring topics like data anal
   </p>
 </details>
 
-<img src="./divider_bottom.svg" width="100%">
+<img src="./divider_top.svg" width="100%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kasra-noorbakhsh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
