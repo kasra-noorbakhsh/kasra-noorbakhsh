@@ -62,11 +62,43 @@ Right now, my focus is on university studies and exploring topics like data anal
 
 </details>
 
+
 <details>
-  <summary>📊 <strong>GitHub Stats</strong></summary>
+  <summary>📊 <strong>GitHub Stats & Activity</strong></summary>
+  <br>
 
-![Kasra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasra-noorbakhsh&show_icons=true&theme=dark&hide=contribs,pr)
+  <!-- Profile Stats -->
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=kasra-noorbakhsh&show_icons=true&bg_color=0A192F&title_color=64FFDA&text_color=E6F1FF&icon_color=64FFDA&hide_border=true&include_all_commits=true&count_private=true" 
+      height="180em"
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=kasra-noorbakhsh&theme=highcontrast&hide_border=true&background=0A192F&ring=64FFDA&fire=7F00FF&currStreakLabel=64FFDA" 
+      height="180em"
+    />
+  </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasra-noorbakhsh&layout=compact&theme=dark)
+  <!-- Most Used Languages -->
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasra-noorbakhsh&layout=compact&bg_color=0A192F&title_color=64FFDA&text_color=E6F1FF&hide_border=true" 
+      height="180em"
+    />
+  </p>
 
+  <!-- Activity Graph -->
+  <p align="center">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=kasra-noorbakhsh&bg_color=0A192F&color=E6F1FF&line=64FFDA&point=7F00FF&area=true&hide_border=true" 
+    />
+  </p>
 </details>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kasra-noorbakhsh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kasra-noorbakhsh?label=Followers&style=flat&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/kasra-noorbakhsh?label=Stars&style=flat&color=yellow" alt="GitHub stars" />
+</p>
+
