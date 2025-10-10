@@ -1,6 +1,8 @@
 <!-- Banner Image -->
 <img src="./ChatGPT Image May 1, 2025, 01_09_38 PM.png" alt="Kasra Noorbakhsh Banner" width="100%">
 
+<img src="./divider_bottom.svg" width="100%">
+
 ## Hi there 👋
 
 I'm a Computer Engineering student at the University of Tehran, navigating the challenges of coursework, projects, and a bit of perfectionism that keeps me deeply engaged (sometimes for too long 😅).
@@ -11,6 +13,8 @@ Right now, my focus is on university studies and exploring topics like data anal
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kasra-noorbakhsh-749353285)
 - 📧 Email: noorbakhshkasra04@gmail.com
 - 🧑🏻‍💻 [Codeforces](https://codeforces.com/submissions/kasra04)
+
+<img src="./divider_top.svg" width="100%">
 
 <details>
   <summary>🛠 <strong>Skills</strong></summary>
@@ -62,6 +66,7 @@ Right now, my focus is on university studies and exploring topics like data anal
 
 </details>
 
+<img src="./divider_bottom.svg" width="100%">
 
 <details>
   <summary>📊 <strong>GitHub Stats & Activity</strong></summary>
